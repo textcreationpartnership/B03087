@@ -1,0 +1,200 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Whereas it hath pleased almighty God to call to his mercy our late soveraign lord King Charles the Second of blessed memory, by whose decease the imperial crowns of England, Scotland, France and Ireland, are solely and rightfully come to the high and mighty Prince James, Duke of York and Albany ...</title>
+            <author>England and Wales. Parliament. House of Lords.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1685</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 4 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B03087</idno>
+            <idno type="STC">Wing E2922A</idno>
+            <idno type="STC">ESTC R172070</idno>
+            <idno type="EEBO-CITATION">53981521</idno>
+            <idno type="OCLC">ocm 53981521</idno>
+            <idno type="VID">180227</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B03087)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 180227)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2821:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Whereas it hath pleased almighty God to call to his mercy our late soveraign lord King Charles the Second of blessed memory, by whose decease the imperial crowns of England, Scotland, France and Ireland, are solely and rightfully come to the high and mighty Prince James, Duke of York and Albany ...</title>
+                  <author>England and Wales. Parliament. House of Lords.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed by the assigns of John Bill deceas'd, and by Henry Hills, and Thomas Newcomb ...,</publisher>
+                  <publisher>by the heir of Andrew Anderson, printer to his most sacred Majesty,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1684 ;</date>
+                  <pubPlace>Re-printed at Edinburgh :</pubPlace>
+                  <date>anno Dom. 1685.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Title from first lines of text.</note>
+                  <note>Royal arms at head of text; initial letter.</note>
+                  <note>Signed: W. Cant. [and 46 others].</note>
+                  <note>Reproduction of the original in the National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>James --  II, --  King of England, 1633-1701.</term>
+               <term>Great Britain --  Politics and government --  1660-1688 --  Sources.</term>
+               <term>Broadsides --  Scotland --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:180227:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 13 -->
+            <head>
+               <figure>
+                  <p>J R</p>
+                  <p>HONI SOIT QVI MAL Y PENSE</p>
+                  <figDesc>royal blazon or coat of arms</figDesc>
+               </figure>
+            </head>
+            <p>
+               <seg rend="decorInit">W</seg>Hereas it hath pleaſed Almighty God to call to his mercy our late Soveraign Lord King <hi>Charles</hi> the Second of Bleſſed Memory, by whoſe Deceaſe, the Imperial Crowns of <hi>England, Scotland, France</hi> and <hi>Ireland,</hi> are ſolely and rightfully come to the High and Mighty Prince <hi>James,</hi> Duke of <hi>York</hi> and <hi>Albany,</hi> His ſaid late Majesties only Brother and Heir. VVe therefore the Lords Spiritual and Temporal of this Realm, being here Aſſiſted with thoſe of His late Majesties Privy Council, with numb<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rs of other Principal Gentle<g ref="char:EOLhyphen"/>men of quality with the Lord Mayor, Aldermen, and Citizens of <hi>London,</hi> do now hereby with one full Voice a<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d Conſent of Tongue and Heart, Publiſh and Proclaim, That the High and Mighty Prince <hi>James</hi> the ſecond, is now by the Death of our late Soveraign of Happy Memorie, become our only Lawful, Lineal, and Rightful Liege Lord, <hi>James</hi> the Second, by the Grace of God King of <hi>England, Scotland, France</hi> and <hi>Ireland,</hi> Defender of the Faith, <hi>&amp;c.</hi> To whom we do acknowledge all Faith and conſtant Obe<g ref="char:EOLhyphen"/>dience, with all hearty and humble Affection: Beſeeching God by whom Kings do Reign, to Bleſs the Royal King <hi>James</hi> the Second with long and happy years to Reign over us.</p>
+            <closer>GOD ſave King JAMES the Second<lb/>
+               <signed>
+                  <list>
+                     <item>W. Cant.</item>
+                     <item>Guilford C. S.</item>
+                     <item>Rocheſter P.</item>
+                     <item>Halyfax C. P. S.</item>
+                     <item>Norfolke</item>
+                     <item>Somerſet</item>
+                     <item>Albemarle</item>
+                     <item>Beaufort</item>
+                     <item>Shrewsbury</item>
+                     <item>Kent</item>
+                     <item>Huntingdon</item>
+                     <item>Pembroke</item>
+                     <item>Saliſbury</item>
+                     <item>Bridgwater</item>
+                     <item>Weſtmorland</item>
+                     <item>Mancheſter</item>
+                     <item>Peterborow</item>
+                     <item>Cheſterfield</item>
+                     <item>Sunderland</item>
+                     <item>Scarſdale</item>
+                     <item>Clarendon</item>
+                     <item>Bathe</item>
+                     <item>Craven</item>
+                     <item>Aileſbury</item>
+                     <item>Litchfield</item>
+                     <item>Feverſham</item>
+                     <item>Nottingham</item>
+                     <item>Berkeley</item>
+                     <item>Morray</item>
+                     <item>Middleton</item>
+                     <item>Fauconberg</item>
+                     <item>Newport</item>
+                     <item>Weymouth</item>
+                     <item>Lumley</item>
+                     <item>Clifford</item>
+                     <item>H. London</item>
+                     <item>N. Durham</item>
+                     <item>Tho. Roffens</item>
+                     <item>North and G<gap reason="illegible: page cropped" extent="3 letters">
+                           <desc>•••</desc>
+                        </gap>
+                     </item>
+                     <item>W. Maynard</item>
+                     <item>Cornwallis</item>
+                     <item>Arundell</item>
+                     <item>Godolphin</item>
+                     <item>Drummond</item>
+                     <item>J. Ernle</item>
+                     <item>Tho. Chicheley</item>
+                     <item>L. Jenkins.</item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed by the Aſſigns of <hi>John Bill</hi> Deceas'd: And by <hi>Henry Hills,</hi> and <hi>Thomas Newcomb,</hi> Printers to the Kings moſt Excellent Majeſty. 1684.</p>
+            <p>Re-Printed at <hi>Edinburgh,</hi> by the Heir of <hi>Andrew Anderſon,</hi> Printer to His moſt Sacred Majeſty, <hi>anno DOM.</hi> 1685.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
